@@ -33,11 +33,11 @@
    "edition": 2018
  },
  {
-   "name": "Participante do Concurso Fotogradia",
+   "name": "Participante do Concurso Fotografia",
    "codename": "challange_photo",
    "parent": "",
    "badge_type": 2,
-   "description": "Venceu o concurso de fotografia\n",
+   "description": "Participou no concurso de fotografia\n",
    "is_code_needed": 1,
    "category": "challange",
    "avatar": "public/images/badges/18/challange/challange_photo.png",
